@@ -1,0 +1,17 @@
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.csproj.AssemblyReference.cache
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.Form1.resources
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.csproj.GenerateResource.cache
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.AssemblyInfoInputs.cache
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.AssemblyInfo.cs
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.csproj.CoreCompileInputs.cache
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\Lab78910.exe
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\Lab78910.deps.json
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\Lab78910.runtimeconfig.json
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\Lab78910.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\Lab78910.pdb
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.dll
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\refint\Lab78910.dll
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.pdb
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.genruntimeconfig.cache
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\ref\Lab78910.dll
