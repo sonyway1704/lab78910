@@ -15,3 +15,13 @@ E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\refint\Lab78910.dll
 E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.pdb
 E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.genruntimeconfig.cache
 E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\ref\Lab78910.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\Lab78910.dll.config
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Github\lab78910\Winform\Lab78910\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.MainForm.resources
+E:\Github\lab78910\Winform\Lab78910\obj\Debug\net6.0-windows\Lab78910.csproj.CopyComplete

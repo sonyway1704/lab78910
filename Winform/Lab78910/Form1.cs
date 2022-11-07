@@ -14,8 +14,11 @@ namespace Lab78910
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2();
+            MainForm f2 = new MainForm();
+            this.Hide();
+            
             f2.Show();
+
         }
 
         private void button2_Click(object sender, EventArgs e)
